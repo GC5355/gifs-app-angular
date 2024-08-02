@@ -4,7 +4,6 @@ import { Gif } from '../../interfaces/gifs.interfaces';
 @Component({
   selector: 'gif-card',
   templateUrl: './gif-card.component.html',
-  styleUrl: './gif-card.component.css'
 })
 
 
